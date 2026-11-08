@@ -1,0 +1,4 @@
+[build]
+base = "blevor-netlify"
+publish = "public"
+functions = "netlify/functions"
